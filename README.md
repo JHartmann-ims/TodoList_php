@@ -2,15 +2,17 @@
 A simple todo list to get an introduction to PHP.
 ## Einleitung
 
-In JSF (JavaServer Faces) ein GIF auf der Website implementieren.
+Um Wissen und Erfahrung in PHP zu sammeln, habe ich mich dazu entschlossen ein kleines Projekt, eine Todo-Liste, zu programmieren.
 
 ## Was habe ich gelernt?
 
-Ich habe gelernt, wie man in JSF ein GIF auf einer Webseite einbindet und es anzeigen lässt.
+Ich habe Kenntnisse in der Verwendung von PHP zum Schreiben von Server-seitigem Code erworben, sowie in der Verwendung von MySQL zum Speichern und abrufen von Daten aus einer Datenbank.
 
 ## Beschreibung
 
-![Doggo](https://media.giphy.com/media/3yf0a7KmQyzhL4hle4/giphy.gif)
+Klicken Sie auf das Bild, um ein Video dazu zu sehen.
+
+[![Watch the video](https://img.youtube.com/vi/RsRw8DSy8h8/sddefault.jpg)](https://www.youtube.com/watch?v=RsRw8DSy8h8)
 
 Ich habe mich dazu entschlossen, ein GIF in JSF zu einbinden. Dieser GIF ist sehr kurz, vielleicht höchstens eine halbe Sekunde. Es wiederholt sich jedoch jedes mal durchgehend, somit hört der Spass nicht auf. Es beinhaltet einen Hund, der gerade seine besten Momente erlebt und mit liebevollen Herzen um ihn in der Luft schwebt. Dieser GIF wurde natürlich 100% in die Breite gezogen, damit man die Maximale Erfahrung bekommt.
 
