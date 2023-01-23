@@ -24,12 +24,11 @@ Code für die Einbindung der Datenbank in PHP
 
 ## Verifikation
 
-Mit dem gegebenen Code-Abschnitt und dem Video wird validiert, dass ich gelernt habe, wie man einen GIF einbindet und wie man die Eigenschaften (Grösse) von diesem GIF ändert.
+Mit dem gegebenen Code-Abschnitt und dem Video wird validiert, dass ich gelernt habe, wie man Daten in einer Datenbank speichert und diese auch abruft mit PHP.
 
 # Reflektion zum Arbeitsprozess
 
-👍 Die Dauer für dieses kleine Projekt verlief sehr schnell, da ich mich schon mit HTML recht auskenne und schon wusste, wie ich vorgehen soll.
+👍 Die Syntax in PHP ist nicht fremd für mich, da ich bereits theoretische Erfahrung mit PHP habe.
 
-👎 Ich Habe mich schnell ablenken lassen, als ich GIFS von Tieren angeschaut habe.
+👎 Ich hatte am Anfang ein bisschen Schwierigkeiten PHP laufen zu bringen auf meinem System.
 
-**VBV**: Nächstesmal Ressourcen vom Internet nehmen, die einen nicht so ablenken (niedliche Tiervideos).
