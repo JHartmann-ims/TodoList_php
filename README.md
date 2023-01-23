@@ -2,7 +2,7 @@
 A simple todo list to get an introduction to PHP.
 ## Einleitung
 
-Um Wissen und Erfahrung in PHP zu sammeln, habe ich mich dazu entschlossen ein kleines Projekt, eine Todo-Liste, zu programmieren.
+Um Wissen und Erfahrung in PHP zu sammeln, beschloss ich, ein kleines Projekt zu programmieren, eine ToDo-Liste.
 
 ## Was habe ich gelernt?
 
@@ -14,13 +14,12 @@ Klicken Sie auf das Bild, um ein Video dazu zu sehen.
 
 [![Watch the video](https://img.youtube.com/vi/RsRw8DSy8h8/sddefault.jpg)](https://www.youtube.com/watch?v=RsRw8DSy8h8)
 
-Ich habe mich dazu entschlossen, ein GIF in JSF zu einbinden. Dieser GIF ist sehr kurz, vielleicht höchstens eine halbe Sekunde. Es wiederholt sich jedoch jedes mal durchgehend, somit hört der Spass nicht auf. Es beinhaltet einen Hund, der gerade seine besten Momente erlebt und mit liebevollen Herzen um ihn in der Luft schwebt. Dieser GIF wurde natürlich 100% in die Breite gezogen, damit man die Maximale Erfahrung bekommt.
+Ich habe mich dazu entschieden, eine Todo-Liste mit PHP und MySQL zu erstellen. Diese Anwendung ermöglicht es dem Benutzer, Aufgaben hinzufügen und zu löschen. Durch die Verwendung von PHP werden die Daten auf dem Server verarbeitet und durch die Verwendung von MySQL werden die Aufgaben in einer Datenbank gespeichert. Dies ermöglicht es dem Benutzer, seine Tätigkeiten jederzeit auf dem lokalen Server abzurufen. Die Benutzeroberfläche wurde mit Bootstrap einfach gestaltet.
 
-Code für das Einbinden eines GIFS
+
+Code für die Einbindung der Datenbank in PHP
 ```
-    <h:body>
-        <h:graphicImage value="/gifs/dog.gif" width="100%" />
-    </h:body>
+    $db = mysqli_connect('localhost', 'root', '', 'todo');
 ```
 
 ## Verifikation
