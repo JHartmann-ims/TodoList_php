@@ -30,5 +30,5 @@ Mit dem gegebenen Code-Abschnitt und dem Video wird validiert, dass ich gelernt 
 
 👍 Die Syntax in PHP ist nicht fremd für mich, da ich bereits theoretische Erfahrung mit PHP habe.
 
-👎 Ich hatte am Anfang ein bisschen Schwierigkeiten PHP laufen zu bringen auf meinem System.
+👎 Ich hatte am Anfang ein bisschen Schwierigkeiten, PHP auf meinem System laufen zu bringen.
 
