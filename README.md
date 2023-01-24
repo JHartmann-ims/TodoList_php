@@ -6,7 +6,7 @@ Um Wissen und Erfahrung in PHP zu sammeln, beschloss ich, ein kleines Projekt zu
 
 ## Was habe ich gelernt?
 
-Ich habe Kenntnisse in der Verwendung von PHP zum Schreiben von Server-seitigem Code erworben, sowie in der Verwendung von MySQL zum Speichern und abrufen von Daten aus einer Datenbank.
+Ich habe Kenntnisse in der Verwendung von PHP zum Schreiben von Server-seitigem Code erworben, sowie in der Verwendung von MySQL zum Speichern und Abrufen von Daten aus einer Datenbank.
 
 ## Beschreibung
 
@@ -14,7 +14,7 @@ Klicken Sie auf das Bild, um ein Video dazu zu sehen.
 
 [![Watch the video](https://img.youtube.com/vi/RsRw8DSy8h8/sddefault.jpg)](https://www.youtube.com/watch?v=RsRw8DSy8h8)
 
-Ich habe mich dazu entschieden, eine Todo-Liste mit PHP und MySQL zu erstellen. Diese Anwendung ermöglicht es dem Benutzer, Aufgaben hinzufügen und zu löschen. Durch die Verwendung von PHP werden die Daten auf dem Server verarbeitet und durch die Verwendung von MySQL werden die Aufgaben in einer Datenbank gespeichert. Dies ermöglicht es dem Benutzer, seine Tätigkeiten jederzeit auf dem lokalen Server abzurufen. Die Benutzeroberfläche wurde mit Bootstrap einfach gestaltet.
+Ich habe mich dazu entschieden, eine Todo-Liste mit PHP und MySQL zu erstellen. Diese Anwendung ermöglicht es dem Benutzer, Aufgaben hinzuzufügen und zu löschen. Durch die Verwendung von PHP werden die Daten auf dem Server verarbeitet und durch die Verwendung von MySQL werden die Aufgaben in einer Datenbank gespeichert. Dies ermöglicht es dem Benutzer, seine Tätigkeiten jederzeit auf dem lokalen Server abzurufen. Die Benutzeroberfläche wurde mit Bootstrap einfach gestaltet.
 
 
 Code für die Einbindung der Datenbank in PHP
